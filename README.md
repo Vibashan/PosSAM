@@ -15,9 +15,8 @@
 - We conduct extensive experiments and demonstrate superior performance over existing state-of-the-art open-vocabulary panoptic segmentation methods across multiple benchmark datasets.
 
 
-## Environment
-```angular2
-UBUNTU="18.04"
-CUDA="11.0"
-CUDNN="8"
-```
+### Training
+'Coming Soon...!!!'
+
+### Inference
+'Coming Soon...!!!'
