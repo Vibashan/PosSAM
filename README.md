@@ -5,7 +5,7 @@
 [[`Project Page`](https://vibashan.github.io/possam-web/)] [[`arXiv`](https://arxiv.org/abs/2303.16891)] [[`PDF`]()] [[`Slides`]()]  [[`BibTeX`]()] 
 
 <p align="center">
-  <img src="figs/ovis-gif5.gif" width="800"/>
+  <img src="images/possam/Archi_v3.png" width="800"/>
 </p
 
 #### Contributions
