@@ -2,7 +2,7 @@
 
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/) 
 
-[[`Project Page`](https://vibashan.github.io/possam-web/)] [[`arXiv`](https://arxiv.org/abs/2303.16891)] [[`PDF`]()] [[`Slides`]()]  [[`BibTeX`]()] 
+[[`Project Page`](https://vibashan.github.io/possam-web/)] [[`arXiv`](https://arxiv.org/pdf/2403.09620)] [[`PDF`]()] [[`Slides`]()]  [[`BibTeX`]()] 
 
 <p align="center">
   <img src="images/possam/Archi_v3.jpg" width="800"/>
