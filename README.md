@@ -1,5 +1,4 @@
 # PosSAM: Panoptic Open-vocabulary Segment Anything
-[![PWC](https://paperswithcode.com/sota/open-vocabulary-panoptic-segmentation-on)](https://paperswithcode.com/sota/open-vocabulary-panoptic-segmentation-on)
 
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/) 
 
