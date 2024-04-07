@@ -4,6 +4,8 @@
 
 [[`Project Page`](https://vibashan.github.io/possam-web/)] [[`arXiv`](https://arxiv.org/pdf/2403.09620)] [[`PDF`]()] [[`Slides`]()]  [[`BibTeX`]()] 
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/possam-panoptic-open-vocabulary-segment-1/open-vocabulary-panoptic-segmentation-on)](https://paperswithcode.com/sota/open-vocabulary-panoptic-segmentation-on?p=possam-panoptic-open-vocabulary-segment-1)
+
 <p align="center">
   <img src="images/possam/Archi_v3.jpg" width="800"/>
 </p
